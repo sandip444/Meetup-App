@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193477454715",
+    "firebase_url": "https://mychat1-bb235.firebaseio.com",
+    "project_id": "mychat1-bb235",
+    "storage_bucket": "mychat1-bb235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193477454715:android:d764699b48a1824ee3abde",
+        "android_client_info": {
+          "package_name": "com.rnfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193477454715-jsdrjg2vbf19t10b9taq8jkuudddu1mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCElY_8kBoi8OtLJ0cbSEFp1TgBehUoIxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193477454715-jsdrjg2vbf19t10b9taq8jkuudddu1mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
